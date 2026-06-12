@@ -1,0 +1,13 @@
+# ============================================================================
+# Requirements pour kaggle_competition
+# ============================================================================
+
+# --- Data & Visualisation ---
+numpy
+pandas
+matplotlib
+seaborn
+
+# --- Machine Learning ---
+scikit-learn
+xgboost          # GPU via device='cuda' (compatible Windows)
